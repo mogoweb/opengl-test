@@ -1,4 +1,4 @@
 opengl-test
 ===========
 
-some opengl example in linux
+some opengl example in android
